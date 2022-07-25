@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourabbh07
-- 👀 I’m interested in Coding
-- 🌱 I’m currently  Python,Django,React
+- 👀 I’m interested in Big Data
+- 🌱 I’m currently working on Apache Spark,Pyspark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me agarisourabh@gmail.com
 
